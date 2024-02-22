@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.I-rectangle {
+    width: 300px;
+    height: 400px;
+    background-color: #2F8141;
+    margin-top: 18px;
+    margin-left: 15px;
+}
+
+.II-rectangle {
+    width: 571px;
+    height: 140px;
+    background-color: #13513B;
+    margin-top: 18px;
+    margin-left: 15px;
+}
+
+.III-rectangle {
+    width: 571px;
+    height: 140px;
+    background-color: #E624BB;
+    margin-top: 18px;
+    margin-left: 15px;
+}
+
+.IV-rectangle {
+    width: 571px;
+    height: 140px;
+    background-color: #55EF0D;
+    margin-top: 18px;
+    margin-left: 15px;
+}
